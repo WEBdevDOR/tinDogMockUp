@@ -1,4 +1,5 @@
-## tindog
+# tindog
 Tinder for Dogs mockup for studying
 
-# BootStrap5.1
+## Technologies used
+BootStrap5.1
