@@ -35,8 +35,25 @@
     
     #cta {
         background-color: #ef8172;
-        padding: 8em 8em;
+        padding: 7% 15%;
         color: white;
+    }
+    
+    .ctaHeading {
+        font-size: 3.5em;
+    }
+    
+    #footer {
+        padding: 7% 15%;
+        text-align: center;
+    }
+    
+    .footerIcon {
+        padding: 1em 1em;
+    }
+    
+    footer a {
+        text-decoration: none;
     }
     
     #title {
